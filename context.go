@@ -20,6 +20,6 @@ func Add(namespace string) func(context.Context, *http.Request) context.Context 
 }
 
 func c(ctx context.Context) string {
-	namespace, _ := c.Value(&key).(string)
+	namespace, _ := ctx.Value(&key).(string)
 	return namespace
 }
