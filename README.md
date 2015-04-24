@@ -2,7 +2,7 @@
 
 **Documentation:** [![GoDoc](https://godoc.org/github.com/cogger/namespace?status.png)](http://godoc.org/github.com/cogger/namespace)  
 **Build Status:** [![Build Status](https://travis-ci.org/cogger/namespace.svg?branch=master)](https://travis-ci.org/cogger/namespace)  
-**Test Coverage:** [![Coverage Status](https://coveralls.io/repos/cogger/namespace/badge.svg)](https://coveralls.io/r/cogger/namespace)
+**Test Coverage:** [![Coverage Status](https://coveralls.io/repos/cogger/namespace/badge.svg?branch=master)](https://coveralls.io/r/cogger/namespace?branch=master)
 
 
 namespace addes the ability set a handlers namespace.  This will allow you to set if the function is in some special state such as development, test or production that changes to way certain functions preform.
