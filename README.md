@@ -5,7 +5,6 @@
 **Test Coverage:** [![Coverage Status](https://coveralls.io/repos/cogger/namespace/badge.svg)](https://coveralls.io/r/cogger/namespace)
 
 
-
 namespace addes the ability set a handlers namespace.  This will allow you to set if the function is in some special state such as development, test or production that changes to way certain functions preform.
 
 ## Usage
