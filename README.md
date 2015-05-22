@@ -14,7 +14,7 @@ package main
 
 import (
 	"net/http"
-	"github.com/cogger/cogger"
+	"gopkg.in/cogger/cogger.v1"
 	"github.com/cogger/namespace"
 	"golang.org/x/net/context"
 )
