@@ -1,9 +1,7 @@
-package namespace_test
+package namespace
 
 import (
 	"net/http"
-
-	. "github.com/cogger/namespace"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"

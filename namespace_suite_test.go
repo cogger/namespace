@@ -1,4 +1,4 @@
-package namespace_test
+package namespace
 
 import (
 	"crypto/rand"

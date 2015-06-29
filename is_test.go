@@ -1,8 +1,6 @@
-package namespace_test
+package namespace
 
 import (
-	. "github.com/cogger/namespace"
-
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 )

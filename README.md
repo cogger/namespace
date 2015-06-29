@@ -7,6 +7,14 @@
 
 namespace addes the ability set a handlers namespace.  This will allow you to set if the function is in some special state such as development, test or production that changes to way certain functions preform.
 
+## Installation
+
+The import path for the package is *gopkg.in/cogger/namespace.v1*.
+
+To install it, run:
+
+    go get gopkg.in/cogger/namespace.v1
+
 ## Usage
 ~~~ go
 // main.go
